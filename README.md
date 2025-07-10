@@ -13,7 +13,7 @@ This project automates the installation of Git across multiple operating systems
 
 ---
 ## 🗂️ Project Structure
-
+```bash
 GITINSTALLATIONPROJECT/
 ├── README.md
 ├── bash/
@@ -31,7 +31,7 @@ GITINSTALLATIONPROJECT/
 │               └── main.yml
 └── jenkins/
     └── Jenkinsfile
-
+```
 ---
 ## 🧱 Structure Breakdown
 
