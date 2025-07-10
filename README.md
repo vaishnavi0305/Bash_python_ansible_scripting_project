@@ -1,3 +1,20 @@
+# ✅ README.md
+
+## Git Installation Automation Project
+
+This project automates the installation of Git across multiple operating systems using Bash, Python, and Ansible. It is designed to be scalable, production-ready, and auditable.
+
+### 🔧 Tools & Technologies:
+- Bash (for initial scripting)
+- Python (cross-platform scripting with logging)
+- Ansible (infrastructure-wide deployment)
+- Jenkins (optional integration)
+- AWS EC2
+
+---
+## 🗂️ Project Structure
+
+```bash
 GITINSTALLATIONPROJECT/
 ├── README.md
 ├── bash/
@@ -15,24 +32,7 @@ GITINSTALLATIONPROJECT/
 │               └── main.yml
 └── jenkins/
     └── Jenkinsfile
-
----
-
-# ✅ README.md
-
-## Git Installation Automation Project
-
-This project automates the installation of Git across multiple operating systems using Bash, Python, and Ansible. It is designed to be scalable, production-ready, and auditable.
-
-### 🔧 Tools & Technologies:
-- Bash (for initial scripting)
-- Python (cross-platform scripting with logging)
-- Ansible (infrastructure-wide deployment)
-- Jenkins (optional integration)
-- AWS EC2
-
----
-
+    
 ## 🧱 Structure Breakdown
 
 ### 1. `bash/git_install.sh`
