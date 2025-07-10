@@ -14,7 +14,6 @@ This project automates the installation of Git across multiple operating systems
 ---
 ## 🗂️ Project Structure
 
-```bash
 GITINSTALLATIONPROJECT/
 ├── README.md
 ├── bash/
@@ -32,7 +31,8 @@ GITINSTALLATIONPROJECT/
 │               └── main.yml
 └── jenkins/
     └── Jenkinsfile
-    
+
+---
 ## 🧱 Structure Breakdown
 
 ### 1. `bash/git_install.sh`
@@ -49,7 +49,7 @@ Deploy Git across multiple servers using Ansible. Includes OS detection, idempot
 
 ---
 
-## ✅ Usage
+# ✅ Usage
 
 ### Bash:
 ```bash
